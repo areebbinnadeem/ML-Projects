@@ -11,7 +11,8 @@
         <h1 class="main-heading">Student Exam Performance Indicator</h1>
         <p class="welcome-text">Welcome to the home page</p>
         <div class="button-container">
-            <a href="http://127.0.0.1:5000/predictdata" class="predict-button">Let's Predict</a>
+            <!-- Updated to use a relative URL -->
+            <a href="{{ url_for('predict_datapoint') }}" class="predict-button">Let's Predict</a>
         </div>
     </div>
 </body>
