@@ -91,4 +91,4 @@ The application was deployed on AWS EC2 using PUTTY and WINSCP by following the 
 
 ## Video Demo
 
-[![Watch the video](Student_Exam_Performance_Indicator.PNG)](https://youtu.be/TOCwU-qzhb4)
+[![Watch the video]](https://youtu.be/TOCwU-qzhb4)
