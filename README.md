@@ -42,3 +42,17 @@ cd ML-Projects
 pip install -r requirements.txt
 
 
+## Usage
+
+### Running the Application
+Start the Flask application:
+
+```bash
+python application.py
+
+
+Open your browser and go to http://localhost:8080/ to access the home page.
+
+Input the required details in the form and get the predicted math score for a student.
+
+
