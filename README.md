@@ -40,6 +40,7 @@ To get started with the project, clone the repository and install the necessary 
 git clone https://https://github.com/areebbinnadeem/ML-Projects
 cd ML-Projects
 pip install -r requirements.txt
+```
 
 
 ## Usage
@@ -49,6 +50,7 @@ Start the Flask application:
 
 ```bash
 python application.py
+```
 
 
 Open your browser and go to http://localhost:8080/ to access the home page.
