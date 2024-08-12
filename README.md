@@ -57,4 +57,10 @@ Open your browser and go to http://localhost:8080/ to access the home page.
 
 Input the required details in the form and get the predicted math score for a student.
 
-
+## Files and Folders
+- [artifacts/] : Contains the preprocessed data, trained models, and other artifacts.
+- [notebook/] : Contains Jupyter notebooks for exploratory data analysis (EDA) and model training.
+- [src/] : Contains the source code for data ingestion, data transformation, model training, and prediction pipelines.
+- [application.py] : The main Flask application file.
+- [requirements.txt] : Lists the dependencies needed to run the project.
+- [setup.py] : Setup script for packaging the project.
