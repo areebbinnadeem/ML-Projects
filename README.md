@@ -31,3 +31,14 @@ Dataset Link: https://www.kaggle.com/datasets/rkiattisak/student-performance-in-
 - **Math Score**: The student's score on a standardized mathematics test
 - **Reading Score**: The student's score on a standardized reading test
 - **Writing Score**: The student's score on a standardized writing test
+
+
+## Installation
+To get started with the project, clone the repository and install the necessary dependencies:
+
+```bash
+git clone https://https://github.com/areebbinnadeem/ML-Projects
+cd ML-Projects
+pip install -r requirements.txt
+
+
