@@ -11,6 +11,7 @@ This repository contains an end-to-end machine learning project focused on predi
 - [Model Training](#model-training)
 - [Prediction Pipeline](#prediction-pipeline)
 - [Deployment](#deployment)
+- [Video Demo](#video-demo)
 
 ## Project Overview
 The goal of this project is to develop a machine learning model that can predict a student's math score based on various features such as gender, race/ethnicity, parental level of education, lunch type, test preparation course, reading score, and writing score. The project includes data ingestion, data transformation, model training, and deployment on AWS EC2.
@@ -87,3 +88,7 @@ The application was deployed on AWS EC2 using PUTTY and WINSCP by following the 
 2. Transferred the project files to the instance using SCP.
 3. Installed the required dependencies on the instance.
 4. Ran the Flask application on the server and accessed it via the public IP address provided by the EC2 instance.
+
+## Video Demo
+
+[![Watch the video](Student_Exam_Performance_Indicator.PNG)](https://youtu.be/TOCwU-qzhb4)
